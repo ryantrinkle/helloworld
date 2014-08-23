@@ -1,0 +1,17 @@
+Name: helloworld
+Version: 0.1
+Synopsis: Project Synopsis Here
+Description: Project Description Here
+License: AllRightsReserved
+Author: Author
+Maintainer: maintainer@example.com
+Stability: Experimental
+Category: Web
+Build-type: Simple
+Cabal-version: >=1.2
+
+executable helloworld
+  main-is: Main.hs
+
+  build-depends:
+    base
